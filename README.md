@@ -1,2 +1,59 @@
-# 7f4191bf-blockchain-development-lead-ge
-The fastest way to add powerful functionality to WordPress without writing code. No setup fees. No learning curve.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Blockchain Development Lead Generation Form Builder — fully configured and ready to use - C
+=== Blockchain Development Lead Generation Form Builder WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Multi-step forms, conditional logic, and CRM integration designed for Blockchain Development businesses. Higher conversion than generic form plugins.
+
+== Description ==
+
+Multi-step forms, conditional logic, and CRM integration designed for Blockchain Development businesses. Higher conversion than generic form plugins.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Blockchain Development Lead Generation Form Builder WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ3cv5iT6AkaNO33mcZG0H)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ3cv5iT6AkaNO33mcZG0H)
+
